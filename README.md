@@ -19,6 +19,12 @@ I can finally clean bookmarks/notes/etc . . .
 
 [12 Concepts That Will Level Up Your JavaScript Skills](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104) 
 
+[Node, Express, Angular 7, GraphQL and MongoDB CRUD Web App](https://www.djamware.com/post/5c75d68880aca754f7a9d1ed/node-express-angular-7-graphql-and-mongodb-crud-web-app) 
+
+[ES5 to ESNext](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e) here’s every feature added to JavaScript since 2015
+
+
+
 
 #### NodeJS
 
@@ -29,6 +35,11 @@ I can finally clean bookmarks/notes/etc . . .
 [Containerizing a Node.js Application for Development With Docker Compose](https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-application-for-development-with-docker-compose) 
 
 
+[Structuring Node.js Project](https://dev.to/vukhanhtruong/structuring-nodejs-project-204e) 
+
+
+
+
 #### React
 
 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) Egghead - Dan Abramov
@@ -36,6 +47,9 @@ I can finally clean bookmarks/notes/etc . . .
 [Styled Components Tutorial](https://www.robinwieruch.de/react-styled-components/) 
 
 [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) __facebook__ for developers
+
+[Frontend Bootcamp | Microsoft](https://microsoft.github.io/frontend-bootcamp/) 
+
 
 ####  React Native
 
@@ -46,6 +60,9 @@ I can finally clean bookmarks/notes/etc . . .
 #### Vue
 
 [Vue CLI UI](https://auth0.com/blog/vue-cli-ui-for-easy-project-management/)  for Easy Project Management
+
+[Vue 3.0 Updates](https://www.vuemastery.com/conferences/vueconf-toronto-2018/vue-3-0-updates/)  Evan You
+
 
 
 ### CSS
@@ -65,6 +82,8 @@ I can finally clean bookmarks/notes/etc . . .
 ### Blogs
 
 [OFFICIAL DISCORD BLOG](https://blog.discordapp.com/)  We make www.discordapp.com and we write how here!
+
+[Uber Engineering](https://eng.uber.com/)
 
 
 ### Podcasts

@@ -14,6 +14,8 @@ I can finally clean bookmarks/notes/etc . . .
 
 [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5) 
 
+[GraphQL: Basics and Overview](https://levelup.gitconnected.com/graphql-basics-469c7d8db1a6) 
+
 
 
 ### Javascript
@@ -25,6 +27,8 @@ I can finally clean bookmarks/notes/etc . . .
 [Node, Express, Angular 7, GraphQL and MongoDB CRUD Web App](https://www.djamware.com/post/5c75d68880aca754f7a9d1ed/node-express-angular-7-graphql-and-mongodb-crud-web-app) 
 
 [ES5 to ESNext](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e) here’s every feature added to JavaScript since 2015
+
+[fnm: Fast and Simple Node.js Version Manager](https://hackernoon.com/fnm-fast-and-simple-node-js-version-manager-df82c37d4e87) 
 
 
 
@@ -52,6 +56,13 @@ I can finally clean bookmarks/notes/etc . . .
 [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) __facebook__ for developers
 
 [Frontend Bootcamp | Microsoft](https://microsoft.github.io/frontend-bootcamp/) 
+
+[A deep dive into React hooks](https://levelup.gitconnected.com/dissecting-react-hooks-how-to-use-them-and-are-they-replacing-redux-4bb96fa7569d) Gitconnected
+
+[From Zero to Deploy: how I created a static website from scratch using Netlify + Gatsby](https://medium.freecodecamp.org/from-zero-to-deploy-how-i-created-a-static-website-from-scratch-using-netlify-gatsby-ebca82612ffd)
+
+
+
 
 
 ####  React Native
@@ -82,6 +93,15 @@ I can finally clean bookmarks/notes/etc . . .
 [Was MongoDB Ever the Right Choice?](https://www.simplethread.com/was-mongodb-ever-the-right-choice/) 
 
 
+### DevOps
+
+[How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed) 
+
+
+
+
+
+
 ### Blogs
 
 [OFFICIAL DISCORD BLOG](https://blog.discordapp.com/)  We make www.discordapp.com and we write how here!
@@ -92,6 +112,9 @@ I can finally clean bookmarks/notes/etc . . .
 ### Podcasts
 
 [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)  The world through the lens of software. 
+
+[The best podcasts for new coders, and the best tools for listening to them](https://medium.freecodecamp.org/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc) 
+
 
 
 ### Tools

@@ -41,9 +41,11 @@ I can finally clean bookmarks/notes/etc . . .
 
 [Containerizing a Node.js Application for Development With Docker Compose](https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-application-for-development-with-docker-compose) 
 
-
 [Structuring Node.js Project](https://dev.to/vukhanhtruong/structuring-nodejs-project-204e) 
 
+[How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817) 
+
+[Enforcing Code Quality for Node.js](https://hackernoon.com/enforcing-code-quality-for-node-js-c3b837d7ae17) Using Linting, Formatting, and Unit Testing with Code Coverage
 
 
 
@@ -61,6 +63,7 @@ I can finally clean bookmarks/notes/etc . . .
 
 [From Zero to Deploy: how I created a static website from scratch using Netlify + Gatsby](https://medium.freecodecamp.org/from-zero-to-deploy-how-i-created-a-static-website-from-scratch-using-netlify-gatsby-ebca82612ffd)
 
+[Write your first React Hook!](https://hashnode.com/post/write-your-first-react-hook-cjrt8lfci00aw18s1z8v9s06n)
 
 
 

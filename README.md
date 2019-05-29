@@ -51,6 +51,9 @@ I can finally clean bookmarks/notes/etc . . .
 
 [How to Perform Web-Scraping using Node.js- Part 2](https://blog.bitsrc.io/how-to-perform-web-scraping-using-node-js-part-2-7a365aeedb43) 
 
+[Super Simple GraphQL with Node](https://scotch.io/tutorials/super-simple-graphql-with-node) 
+
+
 
 
 
@@ -72,6 +75,7 @@ I can finally clean bookmarks/notes/etc . . .
 
 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests)
 
+[Move over Next.js and Webpack!!](https://hackernoon.com/move-over-next-js-and-webpack-ba367f07545) Simple Streaming SSR React with Styled-Components and Parcel
 
 
 
@@ -88,6 +92,11 @@ I can finally clean bookmarks/notes/etc . . .
 [Vue 3.0 Updates](https://www.vuemastery.com/conferences/vueconf-toronto-2018/vue-3-0-updates/)  Evan You
 
 
+#### FullStack?
+
+[Build a Blog Using Express.js and React in 30 Minutes](https://scotch.io/tutorials/build-a-blog-using-expressjs-and-react-in-30-minutes)
+
+
 
 ### CSS
 
@@ -96,6 +105,10 @@ I can finally clean bookmarks/notes/etc . . .
 [Creating Layouts with CSS Grid](https://www.sitepoint.com/creating-css-grid-layouts/)
 
 [30 Seconds of __CSS__](https://30-seconds.github.io/30-seconds-of-css/)
+
+[The Secret Weapon to Learning CSS](https://css-tricks.com/the-secret-weapon-to-learning-css/)
+
+[What’s happening in CSS?](https://rachelandrew.co.uk/archives/2017/05/01/whats-happening-in-css/)
 
 
 ### DB
@@ -107,8 +120,10 @@ I can finally clean bookmarks/notes/etc . . .
 
 [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed) 
 
-
 [Docker Tutorial for Beginners](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2) 
+
+[A Better Way to Develop Node.js with Docker](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093) 
+
 
 
 
@@ -137,6 +152,11 @@ I can finally clean bookmarks/notes/etc . . .
 [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340) 
 
 [Detect Mobile Browsers](http://detectmobilebrowsers.com/) 
+
+[Cool Chrome DevTools tips and tricks you wish you knew already](https://www.freecodecamp.org/news/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2/) 
+
+
+
 
 
 

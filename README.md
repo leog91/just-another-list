@@ -61,6 +61,8 @@ I can finally clean bookmarks/notes/etc . . .
 
 [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) Egghead - Dan Abramov
 
+[Human Redux](https://read.reduxbook.com/) Henrik Joreteg
+
 [Styled Components Tutorial](https://www.robinwieruch.de/react-styled-components/) 
 
 [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) __facebook__ for developers
